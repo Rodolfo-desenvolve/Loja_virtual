@@ -1,8 +1,7 @@
-# Frond-end: loja virtual.
+# loja virtual
 
-### Tecnologias:
-Javascripts.
-<br>
-Html.
-<br>
-css.
+### Frond-end:
+#### Tecnologias:
+    Javascripts;
+    Html;
+    Css;
