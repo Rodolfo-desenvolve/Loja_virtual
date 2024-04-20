@@ -2,6 +2,6 @@
 
 ### Frond-end:
 #### Tecnologias:
-    Javascripts;
-    Html;
-    Css;
+Javascripts;
+Html;
+Css;
