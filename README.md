@@ -1,6 +1,6 @@
 # loja virtual
 
-Projeto criado durando estudos de **desenvolvimento web**;
+Projeto criado durando estudos de **Desenvolvimento web**;
 
 ### Frond-end:
 #### Tecnologias:
