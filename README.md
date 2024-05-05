@@ -6,13 +6,7 @@
 
 <h2>Projeto criado durando estudos de Desenvolvimento web;</h2>
 
-<h3> Frond-end:</h3>
-
-Javascripts;
-<br>
-Html;
-<br>
-Css;
+**Descrição do projeto:**
 
 **Ver site:** <a href='https://rodolfo-desenvolve.github.io/Loja_virtual/'>Loja Virtual.</a>
 
