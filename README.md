@@ -1,6 +1,4 @@
-# loja virtual
-
-<h2>Projeto criado durando estudos de Desenvolvimento web;</h2>
+# Projeto 1 portfólio.
 
 **Descrição do projeto:**
 
