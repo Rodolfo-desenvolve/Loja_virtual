@@ -1,4 +1,4 @@
-# Projeto 1 portfólio.
+# Projeto 1° portfólio.
 
 **Descrição do projeto:**
 
