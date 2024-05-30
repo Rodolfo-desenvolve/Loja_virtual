@@ -1,7 +1,5 @@
 # 1° Projeto portfólio.
 
-<br>
-
 Nome do Projeto: Loja Virtual.<br>
 Interface: Site em  <a href='https://rodolfo-desenvolve.github.io/Loja_virtual/'>Loja Virtual.</a><br>
 Site completo: Em breve.<br>
