@@ -1,6 +1,6 @@
 <h1> 1° Projeto portfólio.</h1><br>
 
-Nome do Projeto: Loja Virtual.<br>
+Titulo do Projeto: Loja Virtual.<br>
 Interface: Site em  <a href='https://rodolfo-desenvolve.github.io/Loja_virtual/'>Loja Virtual.</a><br>
 Site completo: Em breve.<br>
 Códigos: Código em <a href='https://github.com/Rodolfo-desenvolve/Loja_virtual'>Loja Virtual Código</a>.<br>
