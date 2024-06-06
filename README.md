@@ -6,7 +6,7 @@ Site completo: Em breve.<br>
 Códigos: Código em <a href='https://github.com/Rodolfo-desenvolve/Loja_virtual'>Loja Virtual Código</a>.<br>
 Função: Simular uma loja virtual de roupas e artigos.<br>
 Descrição¹: Interface front-end reponsiva, feita em html, css e javascripts.<br>
-Descrição²: Back-end desenvolvido em django.<br>
+Descrição²: Back-end desenvolvido em django.<br><br>
 
 <h2> Outros projetos;</h2><br>
 
