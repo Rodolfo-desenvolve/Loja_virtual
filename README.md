@@ -1,4 +1,4 @@
-<h1> 1° Projeto portfólio:</h1>
+<h1> 1° Projeto portfólio:</h1><br>
 
 Titulo do Projeto: Loja Virtual.<br>
 Interface: Site em  <a href='https://rodolfo-desenvolve.github.io/Loja_virtual/'>Loja Virtual.</a><br>
