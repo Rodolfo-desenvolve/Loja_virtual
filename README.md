@@ -10,7 +10,7 @@ Descrição¹: Interface front-end reponsiva, feita em html, css e javascripts.<
 Descrição²: Back-end desenvolvido em django.<br><br>
 
 
-<h2> Outros projetos:</h2>
+<h2> Outros projetos:</h2><br>
 
 
  **click aqui:** <a href='https://github.com/Rodolfo-desenvolve/python-desktop'>Projetos-desktop.</a><br><br>
