@@ -1,4 +1,4 @@
-<h1> 1° Projeto portfólio:</h1>
+<h1> 1° Projeto portfólio:</h1><br>
 
 
 Titulo do Projeto: Loja Virtual.<br>
